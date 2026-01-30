@@ -51,13 +51,13 @@ My_Flask_App/
 ### Pull the image from Docker Hub
 
 ```bash
-docker pull <your-dockerhub-username>/flask-ci-cd-demo
+docker pull sharoon748/flask-ci-cd-demo
 ```
 
 ### Run the container
 
 ```bash
-docker run -p 5000:5000 <your-dockerhub-username>/flask-ci-cd-demo
+docker run -p 5000:5000 sharoon748/flask-ci-cd-demo
 ```
 
 ### Open in browser
